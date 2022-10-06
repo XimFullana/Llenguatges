@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hola Menorca!!</title>
+        <title>Hola XIm!!</title>
     </head>
     <body>
 <%
